@@ -4,6 +4,8 @@
   "github": {
     "silent": true
   },
+  "buildCommand": "echo 'Static site - no build needed'",
+  "outputDirectory": ".",
   "redirects": [
     {
       "source": "/extension",
