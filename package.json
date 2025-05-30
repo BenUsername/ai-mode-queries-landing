@@ -1,0 +1,26 @@
+{
+  "name": "ai-mode-queries-landing",
+  "version": "1.0.0",
+  "description": "Landing page for AI Mode Queries Extension - Track Google AI Search Analytics",
+  "main": "index.html",
+  "scripts": {
+    "dev": "python3 -m http.server 3000",
+    "build": "echo 'Static site - no build needed'",
+    "start": "python3 -m http.server 8080"
+  },
+  "keywords": [
+    "google",
+    "ai-mode",
+    "search",
+    "analytics",
+    "chrome-extension",
+    "tracking"
+  ],
+  "author": "AI Mode Queries Team",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BenUsername/ai-mode-queries-landing.git"
+  },
+  "homepage": "https://ai-mode-queries-landing.vercel.app"
+} 
