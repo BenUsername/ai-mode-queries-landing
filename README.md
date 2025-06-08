@@ -1,6 +1,6 @@
 # AI Mode Queries Extension - Landing Page
 
-A professional landing page for the AI Mode Queries Chrome Extension that tracks Google AI Mode search analytics.
+A professional landing page for the AI Mode Queries Chrome Extension that tracks Google AI Mode search analytics. 
 
 ## 🌐 Live Site
 
